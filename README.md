@@ -20,7 +20,6 @@ Python
 1. Numpy
 2. Pandas
 3. sklearn
-4. xgboost
 
 # Machine learning model Used
 XGBRegressor 
