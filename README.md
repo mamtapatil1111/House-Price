@@ -2,7 +2,7 @@
 This project is performed on the dataset from Kaggle.
 
 # Objective
-The model should learn from this data and be able to predict the median housing price in any district, given all the other metrics.
+It is your job to predict the sales price for each house.
 
 # Methods Used
 1. Data Analysis
