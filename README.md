@@ -2,7 +2,7 @@
 This project is performed on the dataset from Kaggle.
 
 # Objective
-It is your job to predict the sales price for each house.
+The job is to predict the sales price for each house.
 
 # Methods Used
 1. Data Analysis
